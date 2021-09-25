@@ -2,8 +2,7 @@ const fs = require('fs')
 
 
 //write json file
-fs.writeFile('file.json',JSON.stringify([" Name: Aachal"
-,"Last Name: Makode"] ), (err) => {
+fs.writeFile('file.json',JSON.stringify([" Name: Aachal","Last Name: Makode"] ), (err) => {
 if(err) throw err 
 })
 
