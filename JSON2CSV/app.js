@@ -6,7 +6,7 @@ const Information = [
    
     {
         "Name": "Aachal",
-        "Gender": "Femal",
+        "Gender": "Female",
         "Job": "Programmer",
         "City": "Amravati",
         "State": "Maharashtra",
