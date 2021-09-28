@@ -1,0 +1,3 @@
+<node>text content</node><parent><name>Aachal</name><text>Good Morning</text><children><soya>cute</soya></children><name>Siya</name><text>Hello</text><attrs><mood>sad</mood></attrs><children><name>soya</name><text>heyy</text>hi<name>soya</name><text>strong</text><attrs><type>2</type></attrs></children><name>Aachal</name><attrs>mood=&quot;party!&quot;</attrs></parent><parent2><hi>is a nice thing to say</hi><node>i am another not special child node</node><date>function(){
+            return (new Date())+'';
+        }</date></parent2>
